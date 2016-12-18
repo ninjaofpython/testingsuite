@@ -1,0 +1,35 @@
+1. Will be using Mocha and shouldjs
+
+2. Find out what a generator function is.
+
+3. Find out what 'yield' is.
+
+4. You'll have to install co-mocha at some point.
+
+5. Add a little code as possible just to get our test to pass.
+
+6. The flow goes like this, there is a user creation request, that then hits the data layer, and then the user list.
+
+ 7. Currently were trying to add a user to where the data is being held so were looking for a user created +1.
+ 
+ 8. We need to get the user count, 
+ 
+ 9.  find out what assertion means in JavaScript.
+ 
+ 
+ 10. Learn Callbacks, Promises, Generators https://www.youtube.com/watch?annotation_id=annotation_1449687199&feature=iv&list=UUVTlvUkGslCV_h-nSAId8Sw&src_vid=QO07THdLWQo&v=obaSQBBWZLk
+ 
+ 11. Use "done" for testing with mocha ex. it('no name', function(done) {
+
+12. Have to use mocha-generators for this.  https://github.com/vadimdemedes/mocha-generators
+
+13. If I use 'yield' then that means that a generator function is involved.
+
+14. "before" let's me run some code before I run some tests.  
+
+15. We use a package called supertest to test the web api web layer.
+
+16. Think about what would we test? What would that tests be and what would it be titled?
+
+17. 
+
